@@ -28,6 +28,8 @@ O projeto de Classificação de Vinhos com Rede Neural Recorrente, desenvolvida 
 <br><br>
 
 <p align="center">
+
+- Base de dados: https://drive.google.com/file/d/1t_xztBbx3vsOnEOeMGnko6ufX2I59Zlz/view?usp=drive_link
 - O conjunto de dados havia uma série de mais de cinco mil dados. Com classes e comentarios que expressavam os sentimentos de 'ódio', 'raiva', 'amor', 'preocupação', 'alívio', 'felicidade', 'diversão', 'vazio', 'entusiasmo', 'tristeza', 'surpresa' e 'tédio'.
 </p>
 
