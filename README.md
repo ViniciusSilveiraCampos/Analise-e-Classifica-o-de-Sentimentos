@@ -13,7 +13,7 @@ Analise e Classificação de Sentimentos 💬
 
 <p align="center">
 <br>
-O projeto de Classificação de Vinhos com Rede Neural Recorrente, desenvolvida para explorar técnicas de aprendizado de máquina na análise e classificação de sentimentos com base em frases. Uma rede neural recorrente treinada com processamento de linguagem natural, para a classificação de sentimentos. 💬
+O projeto de Classificação, desenvolvida para explorar técnicas de aprendizado de máquina na análise e classificação de sentimentos com base em frases. Uma rede neural recorrente treinada com processamento de linguagem natural. 💬
 
 
 <br>
